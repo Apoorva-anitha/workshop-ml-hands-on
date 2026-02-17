@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.pdf
+*.docx
+*.txt
+.ipynb_checkpoints/
+.storage/
+storage/
+snapshots/
